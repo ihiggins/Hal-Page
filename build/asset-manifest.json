@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hal-Page/static/css/main.8a5a575d.chunk.css",
+    "main.css": "/Hal-Page/static/css/main.7d0f4566.chunk.css",
     "main.js": "/Hal-Page/static/js/main.5e0e3b23.chunk.js",
     "main.js.map": "/Hal-Page/static/js/main.5e0e3b23.chunk.js.map",
     "runtime-main.js": "/Hal-Page/static/js/runtime-main.4230010f.js",
@@ -10,7 +10,7 @@
     "static/js/3.215adc4d.chunk.js": "/Hal-Page/static/js/3.215adc4d.chunk.js",
     "static/js/3.215adc4d.chunk.js.map": "/Hal-Page/static/js/3.215adc4d.chunk.js.map",
     "index.html": "/Hal-Page/index.html",
-    "static/css/main.8a5a575d.chunk.css.map": "/Hal-Page/static/css/main.8a5a575d.chunk.css.map",
+    "static/css/main.7d0f4566.chunk.css.map": "/Hal-Page/static/css/main.7d0f4566.chunk.css.map",
     "static/js/2.a1e36cc0.chunk.js.LICENSE.txt": "/Hal-Page/static/js/2.a1e36cc0.chunk.js.LICENSE.txt",
     "static/media/controls.d2185465.PNG": "/Hal-Page/static/media/controls.d2185465.PNG",
     "static/media/halPic.1307f948.PNG": "/Hal-Page/static/media/halPic.1307f948.PNG",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4230010f.js",
     "static/js/2.a1e36cc0.chunk.js",
-    "static/css/main.8a5a575d.chunk.css",
+    "static/css/main.7d0f4566.chunk.css",
     "static/js/main.5e0e3b23.chunk.js"
   ]
 }
