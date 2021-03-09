@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hal-Page/static/css/main.ec82b0e2.chunk.css",
+    "main.js": "/Hal-Page/static/js/main.5e0e3b23.chunk.js",
+    "main.js.map": "/Hal-Page/static/js/main.5e0e3b23.chunk.js.map",
+    "runtime-main.js": "/Hal-Page/static/js/runtime-main.4230010f.js",
+    "runtime-main.js.map": "/Hal-Page/static/js/runtime-main.4230010f.js.map",
+    "static/js/2.efb3b721.chunk.js": "/Hal-Page/static/js/2.efb3b721.chunk.js",
+    "static/js/2.efb3b721.chunk.js.map": "/Hal-Page/static/js/2.efb3b721.chunk.js.map",
+    "static/js/3.215adc4d.chunk.js": "/Hal-Page/static/js/3.215adc4d.chunk.js",
+    "static/js/3.215adc4d.chunk.js.map": "/Hal-Page/static/js/3.215adc4d.chunk.js.map",
+    "index.html": "/Hal-Page/index.html",
+    "static/css/main.ec82b0e2.chunk.css.map": "/Hal-Page/static/css/main.ec82b0e2.chunk.css.map",
+    "static/js/2.efb3b721.chunk.js.LICENSE.txt": "/Hal-Page/static/js/2.efb3b721.chunk.js.LICENSE.txt",
+    "static/media/controls.d2185465.PNG": "/Hal-Page/static/media/controls.d2185465.PNG",
+    "static/media/halPic.1307f948.PNG": "/Hal-Page/static/media/halPic.1307f948.PNG",
+    "static/media/App.css": "/Hal-Page/static/media/wave.bbcbb3c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4230010f.js",
+    "static/js/2.efb3b721.chunk.js",
+    "static/css/main.ec82b0e2.chunk.css",
+    "static/js/main.5e0e3b23.chunk.js"
+  ]
+}
